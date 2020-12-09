@@ -1,0 +1,17 @@
+#El administrador es el mayor mandatario ya que tiene el acceso de todo el sistema de inventario, el puede
+ingresar valores al sistema.
+
+    Administrador{
+    user ... nuevo_usuario09@gmail.com
+    pass ... holamundo
+    }
+...
+
+#El Operador es como un invitado al sistema ya que este no podrá hacer nada en el sistema a al vez el sistema
+lo direcciona al panel_operador.php 
+
+    Operador{
+    user ... new_user02@gmail.com
+    pass ... helloworld
+    }
+...
